@@ -1,6 +1,6 @@
 # 🚗 Réplica Landing de Tesla en Versión de Escritorio con Animaciones,Tailwind CSS & React
 
-![Landing Page]<img src="LANDING/../public/assets/fotos/Read.jpg" alt="imágenCoche"/>
+<img src="LANDING/../public/assets/fotos/Read.jpg" alt="imágenCoche"/>
 
 ## Características Destacadas:
  -React en Acción ⚛️ Aproveché la potencia de React para dividir la interfaz en componentes reutilizables y modulares. 
